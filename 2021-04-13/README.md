@@ -113,8 +113,8 @@ advance.
 
 Further details on the concept and procedure can be found in the [handout
 "Seminar Concept"](../Seminarconcept.pdf) as well as in the ["Seminar
-plan"](../Seminarplan.md) in the folder _Summerterm-2021_ of the github Repos
-["Leipzig Seminar"](https://github.com/wumm-project/Leipzig-Seminar).
+plan"](../Seminarplan.md) in the github Repo
+["Seminar-S21"](https://github.com/wumm-project/Seminar-S21).
 
 ### The Concept of the Course
 

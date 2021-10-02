@@ -1,4 +1,4 @@
-# Summer Term 2021
+# Leipzig Seminar - Summer Term 2021
 
 * lecture: th/do 11:15-12:45 
 * Seminar: tu/di 9:15-10:45 
