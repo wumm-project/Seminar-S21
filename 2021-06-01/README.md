@@ -41,7 +41,7 @@ order to produce context-specific management tools and documents for
 management action (description level), which then have to prove themselves
 efficient in the concrete practice of management action.
 
-Of these three levels, the lowest on of special management action is
+Of these three levels, the lowest one of special management action is
 ultimately decisive for practical performance. The other two levels - that of
 a special management strategy and that of the methodological foundation of
 such a strategy - clearly move on at two more comprehensive spatio-temporal
